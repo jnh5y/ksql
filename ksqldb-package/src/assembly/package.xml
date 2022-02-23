@@ -83,6 +83,7 @@
             <excludes>
                 <exclude>io.confluent:common-config</exclude>
                 <exclude>io.confluent:common-metrics</exclude>
+                <exclude>io.netty:*</exclude>
             </excludes>
         </dependencySet>
     </dependencySets>
